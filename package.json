@@ -1,0 +1,22 @@
+{
+  "name": "swaglabs-port",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mochammadaliesf/SwagLabs-Port.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mochammadaliesf/SwagLabs-Port/issues"
+  },
+  "homepage": "https://github.com/mochammadaliesf/SwagLabs-Port#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.0",
+    "@types/node": "^22.13.10"
+  }
+}
